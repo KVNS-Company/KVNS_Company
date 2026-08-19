@@ -1,0 +1,6 @@
+{
+  "name": "KVNS Company",
+  "description": "Premium corporate website for KVNS Company, established in 1997 in Virudhunagar, Tamil Nadu. Seed processing and wholesale supply of cotton and sesame seeds across South India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
